@@ -1,0 +1,8 @@
+scons
+clang
+libgmp-dev
+libboost-test-dev
+libgcrypt11-dev
+libboost-serialization-dev
+libboost-system-dev
+

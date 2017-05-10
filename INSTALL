@@ -1,0 +1,14 @@
+If you don't have SCons (a build system, based on python), you can get it as follows:
+
+0) sudo apt-get install scons
+OR
+0) sudo yum install scons
+OR 
+0) visit http://www.scons.org and download/install it
+
+Then (your preference):
+
+1) scons
+OR
+1) scons --enable-clang
+
