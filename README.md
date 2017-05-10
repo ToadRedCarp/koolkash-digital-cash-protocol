@@ -17,14 +17,15 @@ koolkash-digital-cash-protocol
 
 ## <a name='Dependencies'/> Dependencies ([Back to Top](#Top))
 
-This source code requires:
-- scons
-- clang
+Is known to work with:
+- scons (v2.3.1)
+- gcc (v4.9.2)
 - libgmp-dev
 - libboost-test-dev
 - libgcrypt11-dev
-- libboost-serialization-dev
-- libboost-system-dev
+- libboost-serialization-dev (v1.55.0)
+- libboost-system-dev (v1.55.0)
+- libboost-test-dev (v1.55.0)
 
 
 ## <a name='License'/> License ([Back to Top](#Top))
