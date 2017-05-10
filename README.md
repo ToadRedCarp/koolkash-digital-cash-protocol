@@ -8,6 +8,7 @@ koolkash-digital-cash-protocol
  2. [Dependencies](#Dependencies)
  3. [License](#License)
  4. [Description](#Description)
+ 5. [Paper](https://github.com/ToadRedCarp/koolkash-digital-cash-protocol/blob/master/HardingMcCluskey_KoolKash.pdf)
 
 ## <a name='Authors'/> Authors ([Back to Top](#Top))
 
