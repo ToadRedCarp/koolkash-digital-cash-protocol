@@ -55,6 +55,9 @@ SOFTWARE.
 
 ## <a name='Description'/> Description ([Back to Top](#Top))
 
-KoolKash implements the fourth digital cash protocol in Bruce Schneier’s Applied Cryptography.
+KoolKash implements the fourth digital cash protocol in Bruce Schneier’s Applied Cryptography.  KoolKash implements the following cryptographic protocols:
+- RSA
+- Bit Commitment
+- Secret Splitting
 
 Enjoy!
