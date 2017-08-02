@@ -27,6 +27,11 @@ Is known to work with:
 - libboost-system-dev (v1.55.0)
 - libboost-test-dev (v1.55.0)
 
+Or, you can take the easy button route and build a docker container that will build and run the unit tests:
+- docker build -t kool-kash .
+
+To obtain an interactive shell to the source within the container:
+- docker run -it --rm kool-kash
 
 ## <a name='License'/> License ([Back to Top](#Top))
 
