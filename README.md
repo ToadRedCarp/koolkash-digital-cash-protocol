@@ -65,4 +65,8 @@ KoolKash implements the fourth digital cash protocol in Bruce Schneier’s Appli
 - Bit Commitment
 - Secret Splitting
 
+Video demonstrations:
+- https://youtu.be/616k9yRhQ0k
+- https://youtu.be/xDMLF3tiNeY
+
 Enjoy!
